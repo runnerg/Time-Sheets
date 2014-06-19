@@ -1,16 +1,16 @@
 <!DOCTYPE charmdatabase>
-<charmdatabase version="4">
+<charmdatabase version="3">
     <metadata/>
     <tasks>
-        <task taskid="1" subscribed="0" trackable="1" parentid="0">Read Difficult Conversations</task>
-        <task taskid="2" subscribed="0" trackable="1" parentid="0">Practice 1100 Words You Need To Know</task>
-        <task taskid="3" subscribed="0" trackable="1" parentid="2">Transfer into Evernote</task>
-        <task taskid="4" subscribed="0" trackable="1" parentid="0">Study Operating Systems</task>
-        <task taskid="5" subscribed="0" trackable="1" parentid="0">Study Intro To Networking</task>
-        <task taskid="6" subscribed="0" trackable="1" parentid="0">Explore Fedora 20 on MBA</task>
-        <task taskid="7" subscribed="0" trackable="1" parentid="0">Goofing Around</task>
-        <task taskid="8" subscribed="0" trackable="1" parentid="0">Learning Random Things</task>
-        <task taskid="9" subscribed="0" trackable="1" parentid="0">Programming on Codecademy</task>
+        <task taskid="1" subscribed="0" parentid="0">Read Difficult Conversations</task>
+        <task taskid="2" subscribed="0" parentid="0">Practice 1100 Words You Need To Know</task>
+        <task taskid="3" subscribed="0" parentid="2">Transfer into Evernote</task>
+        <task taskid="4" subscribed="0" parentid="0">Study Operating Systems</task>
+        <task taskid="5" subscribed="0" parentid="0">Study Intro To Networking</task>
+        <task taskid="6" subscribed="0" parentid="0">Explore Fedora 20 on MBA</task>
+        <task taskid="7" subscribed="0" parentid="0">Goofing Around</task>
+        <task taskid="8" subscribed="0" parentid="0">Learning Random Things</task>
+        <task taskid="9" subscribed="0" parentid="0">Programming on Codecademy</task>
     </tasks>
     <events>
         <event eventid="1" installationid="1" taskid="6" userid="0" end="2014-06-18T01:33:25Z" reportid="0" start="2014-06-18T01:21:13Z"/>
@@ -23,5 +23,9 @@
         <event eventid="8" installationid="1" taskid="7" userid="0" end="2014-06-18T22:41:37Z" reportid="0" start="2014-06-18T21:47:35Z"/>
         <event eventid="9" installationid="1" taskid="1" userid="0" end="2014-06-18T23:07:35Z" reportid="0" start="2014-06-18T22:50:39Z"/>
         <event eventid="10" installationid="1" taskid="9" userid="0" end="2014-06-19T00:11:26Z" reportid="0" start="2014-06-18T23:48:32Z"/>
+        <event eventid="11" installationid="1" taskid="7" userid="0" end="2014-06-19T02:15:56Z" reportid="0" start="2014-06-19T02:15:54Z"/>
+        <event eventid="12" installationid="1" taskid="8" userid="0" end="2014-06-19T02:49:11Z" reportid="0" start="2014-06-19T02:16:01Z"/>
+        <event eventid="13" installationid="1" taskid="8" userid="0" end="2014-06-19T02:52:15Z" reportid="0" start="2014-06-19T02:49:23Z"/>
+        <event eventid="14" installationid="1" taskid="7" userid="0" end="2014-06-19T03:02:24Z" reportid="0" start="2014-06-19T02:52:18Z"/>
     </events>
 </charmdatabase>
