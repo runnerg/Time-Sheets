@@ -1,0 +1,27 @@
+<!DOCTYPE charmdatabase>
+<charmdatabase version="4">
+    <metadata/>
+    <tasks>
+        <task taskid="1" subscribed="0" trackable="1" parentid="0">Read Difficult Conversations</task>
+        <task taskid="2" subscribed="0" trackable="1" parentid="0">Practice 1100 Words You Need To Know</task>
+        <task taskid="3" subscribed="0" trackable="1" parentid="2">Transfer into Evernote</task>
+        <task taskid="4" subscribed="0" trackable="1" parentid="0">Study Operating Systems</task>
+        <task taskid="5" subscribed="0" trackable="1" parentid="0">Study Intro To Networking</task>
+        <task taskid="6" subscribed="0" trackable="1" parentid="0">Explore Fedora 20 on MBA</task>
+        <task taskid="7" subscribed="0" trackable="1" parentid="0">Goofing Around</task>
+        <task taskid="8" subscribed="0" trackable="1" parentid="0">Learning Random Things</task>
+        <task taskid="9" subscribed="0" trackable="1" parentid="0">Programming on Codecademy</task>
+    </tasks>
+    <events>
+        <event eventid="1" installationid="1" taskid="6" userid="0" end="2014-06-18T01:33:25Z" reportid="0" start="2014-06-18T01:21:13Z"/>
+        <event eventid="2" installationid="1" taskid="8" userid="0" end="2014-06-18T01:50:11Z" reportid="0" start="2014-06-18T01:35:21Z"/>
+        <event eventid="3" installationid="1" taskid="8" userid="0" end="2014-06-18T02:08:59Z" reportid="0" start="2014-06-18T01:56:00Z"/>
+        <event eventid="4" installationid="1" taskid="6" userid="0" end="2014-06-18T02:59:35Z" reportid="0" start="2014-06-18T02:59:20Z"/>
+        <event eventid="5" installationid="1" taskid="6" userid="0" end="2014-06-18T03:30:30Z" reportid="0" start="2014-06-18T03:28:50Z"/>
+        <event eventid="6" installationid="1" taskid="6" userid="0" end="2014-06-18T04:13:33Z" reportid="0" start="2014-06-18T03:55:40Z"/>
+        <event eventid="7" installationid="1" taskid="6" userid="0" end="2014-06-18T21:47:17Z" reportid="0" start="2014-06-18T21:10:13Z"/>
+        <event eventid="8" installationid="1" taskid="7" userid="0" end="2014-06-18T22:41:37Z" reportid="0" start="2014-06-18T21:47:35Z"/>
+        <event eventid="9" installationid="1" taskid="1" userid="0" end="2014-06-18T23:07:35Z" reportid="0" start="2014-06-18T22:50:39Z"/>
+        <event eventid="10" installationid="1" taskid="9" userid="0" end="2014-06-19T00:11:26Z" reportid="0" start="2014-06-18T23:48:32Z"/>
+    </events>
+</charmdatabase>
