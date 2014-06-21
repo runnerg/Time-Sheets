@@ -27,5 +27,13 @@
         <event eventid="12" installationid="1" taskid="8" userid="0" end="2014-06-19T02:49:11Z" reportid="0" start="2014-06-19T02:16:01Z"/>
         <event eventid="13" installationid="1" taskid="8" userid="0" end="2014-06-19T02:52:15Z" reportid="0" start="2014-06-19T02:49:23Z"/>
         <event eventid="14" installationid="1" taskid="7" userid="0" end="2014-06-19T03:02:24Z" reportid="0" start="2014-06-19T02:52:18Z"/>
+        <event eventid="15" installationid="1" taskid="6" userid="0" end="2014-06-20T23:02:43Z" reportid="0" start="2014-06-20T22:50:37Z"/>
+        <event eventid="16" installationid="1" taskid="7" userid="0" end="2014-06-20T23:06:45Z" reportid="0" start="2014-06-20T23:02:46Z"/>
+        <event eventid="17" installationid="1" taskid="8" userid="0" end="2014-06-20T23:30:50Z" reportid="0" start="2014-06-20T23:06:50Z"/>
+        <event eventid="18" installationid="1" taskid="7" userid="0" end="2014-06-20T23:55:08Z" reportid="0" start="2014-06-20T23:30:53Z"/>
+        <event eventid="19" installationid="1" taskid="8" userid="0" end="2014-06-20T23:58:40Z" reportid="0" start="2014-06-20T23:55:10Z"/>
+        <event eventid="20" installationid="1" taskid="6" userid="0" end="2014-06-21T00:46:59Z" reportid="0" start="2014-06-20T23:58:41Z"/>
+        <event eventid="21" installationid="1" taskid="8" userid="0" end="2014-06-21T01:36:57Z" reportid="0" start="2014-06-21T00:56:10Z"/>
+        <event eventid="22" installationid="1" taskid="7" userid="0" end="2014-06-21T02:09:42Z" reportid="0" start="2014-06-21T01:36:59Z"/>
     </events>
 </charmdatabase>
